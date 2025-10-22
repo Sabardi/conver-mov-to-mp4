@@ -1,0 +1,21 @@
+# Requirements untuk MOV to MP4 Converter
+# Program ini menggunakan library standar Python dan FFmpeg
+
+# Tidak ada dependencies Python khusus yang diperlukan
+# Program menggunakan library standar Python:
+# - os
+# - sys  
+# - subprocess
+# - argparse
+# - pathlib
+# - logging
+
+# Yang diperlukan:
+# 1. Python 3.6 atau lebih baru
+# 2. FFmpeg terinstall di sistem
+
+# Untuk install FFmpeg:
+# Windows: Download dari https://ffmpeg.org/download.html atau gunakan chocolatey: choco install ffmpeg
+# macOS: brew install ffmpeg
+# Linux: sudo apt install ffmpeg (Ubuntu/Debian) atau sudo yum install ffmpeg (CentOS/RHEL)
+

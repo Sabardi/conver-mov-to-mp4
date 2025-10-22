@@ -1,0 +1,150 @@
+2025-10-22 11:04:28,118 - ERROR - FFmpeg tidak ditemukan! Silakan install FFmpeg terlebih dahulu.
+2025-10-22 11:04:28,118 - ERROR - Download dari: https://ffmpeg.org/download.html
+2025-10-22 11:04:28,119 - ERROR - Beberapa file gagal dikonversi. Cek log untuk detail.
+2025-10-22 11:11:08,913 - INFO - FFmpeg ditemukan di sistem
+2025-10-22 11:11:08,918 - INFO - Ditemukan 26 file MOV di folder: C:\Users\Dell\Downloads\meta
+2025-10-22 11:11:08,919 - INFO - Folder output: C:\Users\Dell\Downloads\meta\converted_mp4
+2025-10-22 11:11:08,919 - INFO - Memulai konversi 26 file...
+2025-10-22 11:11:08,919 - INFO - Progress: 1/26
+2025-10-22 11:11:08,920 - INFO - Memulai konversi: 14 Oktober forward (3).mov
+2025-10-22 11:11:10,236 - INFO - Konversi berhasil: 14 Oktober forward (3).mov -> 14 Oktober forward (3).mp4
+2025-10-22 11:11:10,240 - INFO - Progress: 2/26
+2025-10-22 11:11:10,241 - INFO - Memulai konversi: 14 Oktober forward (4).mov
+2025-10-22 11:11:10,725 - INFO - Konversi berhasil: 14 Oktober forward (4).mov -> 14 Oktober forward (4).mp4
+2025-10-22 11:11:10,725 - INFO - Progress: 3/26
+2025-10-22 11:11:10,725 - INFO - Memulai konversi: 14 Oktober forward (7).mov
+2025-10-22 11:11:12,034 - INFO - Konversi berhasil: 14 Oktober forward (7).mov -> 14 Oktober forward (7).mp4
+2025-10-22 11:11:12,035 - INFO - Progress: 4/26
+2025-10-22 11:11:12,035 - INFO - Memulai konversi: 14 Oktober forward (8).mov
+2025-10-22 11:11:12,623 - INFO - Konversi berhasil: 14 Oktober forward (8).mov -> 14 Oktober forward (8).mp4
+2025-10-22 11:11:12,623 - INFO - Progress: 5/26
+2025-10-22 11:11:12,623 - INFO - Memulai konversi: 14 Oktober forward (9).mov
+2025-10-22 11:11:13,211 - INFO - Konversi berhasil: 14 Oktober forward (9).mov -> 14 Oktober forward (9).mp4
+2025-10-22 11:11:13,211 - INFO - Progress: 6/26
+2025-10-22 11:11:13,212 - INFO - Memulai konversi: vertical rewind vhs video forward (14).mov
+2025-10-22 11:11:13,671 - INFO - Konversi berhasil: vertical rewind vhs video forward (14).mov -> vertical rewind vhs video forward (14).mp4
+2025-10-22 11:11:13,671 - INFO - Progress: 7/26
+2025-10-22 11:11:13,671 - INFO - Memulai konversi: vertical rewind vhs video forward (17).mov
+2025-10-22 11:11:14,201 - INFO - Konversi berhasil: vertical rewind vhs video forward (17).mov -> vertical rewind vhs video forward (17).mp4
+2025-10-22 11:11:14,201 - INFO - Progress: 8/26
+2025-10-22 11:11:14,202 - INFO - Memulai konversi: vertical rewind vhs video forward (18).mov
+2025-10-22 11:11:14,658 - INFO - Konversi berhasil: vertical rewind vhs video forward (18).mov -> vertical rewind vhs video forward (18).mp4
+2025-10-22 11:11:14,658 - INFO - Progress: 9/26
+2025-10-22 11:11:14,659 - INFO - Memulai konversi: vertical rewind vhs video forward (2).mov
+2025-10-22 11:11:15,193 - INFO - Konversi berhasil: vertical rewind vhs video forward (2).mov -> vertical rewind vhs video forward (2).mp4
+2025-10-22 11:11:15,193 - INFO - Progress: 10/26
+2025-10-22 11:11:15,194 - INFO - Memulai konversi: vertical rewind vhs video forward (21).mov
+2025-10-22 11:11:15,737 - INFO - Konversi berhasil: vertical rewind vhs video forward (21).mov -> vertical rewind vhs video forward (21).mp4
+2025-10-22 11:11:15,738 - INFO - Progress: 11/26
+2025-10-22 11:11:15,738 - INFO - Memulai konversi: vertical rewind vhs video forward (22).mov
+2025-10-22 11:11:16,045 - INFO - Konversi berhasil: vertical rewind vhs video forward (22).mov -> vertical rewind vhs video forward (22).mp4
+2025-10-22 11:11:16,045 - INFO - Progress: 12/26
+2025-10-22 11:11:16,045 - INFO - Memulai konversi: vertical rewind vhs video forward (23).mov
+2025-10-22 11:11:16,517 - INFO - Konversi berhasil: vertical rewind vhs video forward (23).mov -> vertical rewind vhs video forward (23).mp4
+2025-10-22 11:11:16,517 - INFO - Progress: 13/26
+2025-10-22 11:11:16,517 - INFO - Memulai konversi: vertical rewind vhs video forward (3).mov
+2025-10-22 11:11:16,995 - INFO - Konversi berhasil: vertical rewind vhs video forward (3).mov -> vertical rewind vhs video forward (3).mp4
+2025-10-22 11:11:16,996 - INFO - Progress: 14/26
+2025-10-22 11:11:16,997 - INFO - Memulai konversi: vertical rewind vhs video forward (5).mov
+2025-10-22 11:11:17,453 - INFO - Konversi berhasil: vertical rewind vhs video forward (5).mov -> vertical rewind vhs video forward (5).mp4
+2025-10-22 11:11:17,453 - INFO - Progress: 15/26
+2025-10-22 11:11:17,454 - INFO - Memulai konversi: vertical rewind vhs video forward (9).mov
+2025-10-22 11:11:17,973 - INFO - Konversi berhasil: vertical rewind vhs video forward (9).mov -> vertical rewind vhs video forward (9).mp4
+2025-10-22 11:11:17,973 - INFO - Progress: 16/26
+2025-10-22 11:11:17,974 - INFO - Memulai konversi: vertical vhs video player 16.mov
+2025-10-22 11:11:18,431 - INFO - Konversi berhasil: vertical vhs video player 16.mov -> vertical vhs video player 16.mp4
+2025-10-22 11:11:18,431 - INFO - Progress: 17/26
+2025-10-22 11:11:18,432 - INFO - Memulai konversi: vertical vhs video player 17.mov
+2025-10-22 11:11:18,954 - INFO - Konversi berhasil: vertical vhs video player 17.mov -> vertical vhs video player 17.mp4
+2025-10-22 11:11:18,955 - INFO - Progress: 18/26
+2025-10-22 11:11:18,955 - INFO - Memulai konversi: vertical vhs video player 21.mov
+2025-10-22 11:11:19,506 - INFO - Konversi berhasil: vertical vhs video player 21.mov -> vertical vhs video player 21.mp4
+2025-10-22 11:11:19,506 - INFO - Progress: 19/26
+2025-10-22 11:11:19,507 - INFO - Memulai konversi: vertical vhs video player 23.mov
+2025-10-22 11:11:19,954 - INFO - Konversi berhasil: vertical vhs video player 23.mov -> vertical vhs video player 23.mp4
+2025-10-22 11:11:19,954 - INFO - Progress: 20/26
+2025-10-22 11:11:19,954 - INFO - Memulai konversi: vhs video player 23.mov
+2025-10-22 11:11:20,408 - INFO - Konversi berhasil: vhs video player 23.mov -> vhs video player 23.mp4
+2025-10-22 11:11:20,408 - INFO - Progress: 21/26
+2025-10-22 11:11:20,408 - INFO - Memulai konversi: vhs video player 24.mov
+2025-10-22 11:11:20,984 - INFO - Konversi berhasil: vhs video player 24.mov -> vhs video player 24.mp4
+2025-10-22 11:11:20,985 - INFO - Progress: 22/26
+2025-10-22 11:11:20,985 - INFO - Memulai konversi: vhs video player 25.mov
+2025-10-22 11:11:21,469 - INFO - Konversi berhasil: vhs video player 25.mov -> vhs video player 25.mp4
+2025-10-22 11:11:21,469 - INFO - Progress: 23/26
+2025-10-22 11:11:21,469 - INFO - Memulai konversi: vhs video player 27.mov
+2025-10-22 11:11:21,951 - INFO - Konversi berhasil: vhs video player 27.mov -> vhs video player 27.mp4
+2025-10-22 11:11:21,951 - INFO - Progress: 24/26
+2025-10-22 11:11:21,952 - INFO - Memulai konversi: vhs video player 28.mov
+2025-10-22 11:11:22,531 - INFO - Konversi berhasil: vhs video player 28.mov -> vhs video player 28.mp4
+2025-10-22 11:11:22,531 - INFO - Progress: 25/26
+2025-10-22 11:11:22,532 - INFO - Memulai konversi: vhs video player 31.mov
+2025-10-22 11:11:23,137 - INFO - Konversi berhasil: vhs video player 31.mov -> vhs video player 31.mp4
+2025-10-22 11:11:23,137 - INFO - Progress: 26/26
+2025-10-22 11:11:23,137 - INFO - Memulai konversi: vhs video player 4.mov
+2025-10-22 11:11:24,404 - INFO - Konversi berhasil: vhs video player 4.mov -> vhs video player 4.mp4
+2025-10-22 11:11:24,405 - INFO - Konversi selesai! 26/26 file berhasil dikonversi
+2025-10-22 11:11:24,405 - INFO - Semua file berhasil dikonversi!
+2025-10-22 11:36:45,243 - INFO - FFmpeg ditemukan di sistem
+2025-10-22 11:36:45,244 - INFO - Ditemukan 3 file MOV di folder: C:\Users\Dell\Downloads\meta
+2025-10-22 11:36:45,244 - INFO - Folder output: C:\Users\Dell\Downloads\meta\converted_mp4
+2025-10-22 11:36:45,244 - INFO - Memulai konversi 3 file...
+2025-10-22 11:36:45,245 - INFO - Progress: 1/3
+2025-10-22 11:36:45,245 - INFO - Memulai konversi: 14 Oktober forward (5).mov
+2025-10-22 11:36:45,801 - INFO - Konversi berhasil: 14 Oktober forward (5).mov -> 14 Oktober forward (5).mp4
+2025-10-22 11:36:45,801 - INFO - Progress: 2/3
+2025-10-22 11:36:45,802 - INFO - Memulai konversi: vertical rewind vhs video forward (4).mov
+2025-10-22 11:36:46,902 - INFO - Konversi berhasil: vertical rewind vhs video forward (4).mov -> vertical rewind vhs video forward (4).mp4
+2025-10-22 11:36:46,903 - INFO - Progress: 3/3
+2025-10-22 11:36:46,903 - INFO - Memulai konversi: vertical rewind vhs video forward (7).mov
+2025-10-22 11:36:47,350 - INFO - Konversi berhasil: vertical rewind vhs video forward (7).mov -> vertical rewind vhs video forward (7).mp4
+2025-10-22 11:36:47,351 - INFO - Konversi selesai! 3/3 file berhasil dikonversi
+2025-10-22 11:36:47,351 - INFO - Semua file berhasil dikonversi!
+2025-10-22 11:45:02,763 - INFO - FFmpeg ditemukan di sistem
+2025-10-22 11:45:02,764 - INFO - Ditemukan 14 file MOV di folder: C:\Users\Dell\Downloads\meta
+2025-10-22 11:45:02,765 - INFO - Folder output: C:\Users\Dell\Downloads\meta\converted_mp4
+2025-10-22 11:45:02,765 - INFO - Memulai konversi 14 file...
+2025-10-22 11:45:02,766 - INFO - Progress: 1/14
+2025-10-22 11:45:02,766 - INFO - Memulai konversi: Press start 2.mov
+2025-10-22 11:45:03,277 - INFO - Konversi berhasil: Press start 2.mov -> Press start 2.mp4
+2025-10-22 11:45:03,277 - INFO - Progress: 2/14
+2025-10-22 11:45:03,277 - INFO - Memulai konversi: Press start 3.mov
+2025-10-22 11:45:03,961 - INFO - Konversi berhasil: Press start 3.mov -> Press start 3.mp4
+2025-10-22 11:45:03,961 - INFO - Progress: 3/14
+2025-10-22 11:45:03,962 - INFO - Memulai konversi: Press start 50.mov
+2025-10-22 11:45:04,470 - INFO - Konversi berhasil: Press start 50.mov -> Press start 50.mp4
+2025-10-22 11:45:04,470 - INFO - Progress: 4/14
+2025-10-22 11:45:04,470 - INFO - Memulai konversi: Press start 8.mov
+2025-10-22 11:45:04,968 - INFO - Konversi berhasil: Press start 8.mov -> Press start 8.mp4
+2025-10-22 11:45:04,968 - INFO - Progress: 5/14
+2025-10-22 11:45:04,968 - INFO - Memulai konversi: Press start 84.mov
+2025-10-22 11:45:05,440 - INFO - Konversi berhasil: Press start 84.mov -> Press start 84.mp4
+2025-10-22 11:45:05,440 - INFO - Progress: 6/14
+2025-10-22 11:45:05,440 - INFO - Memulai konversi: Press start 94.mov
+2025-10-22 11:45:05,890 - INFO - Konversi berhasil: Press start 94.mov -> Press start 94.mp4
+2025-10-22 11:45:05,890 - INFO - Progress: 7/14
+2025-10-22 11:45:05,890 - INFO - Memulai konversi: vertical vhs video player 11.mov
+2025-10-22 11:45:06,293 - INFO - Konversi berhasil: vertical vhs video player 11.mov -> vertical vhs video player 11.mp4
+2025-10-22 11:45:06,294 - INFO - Progress: 8/14
+2025-10-22 11:45:06,294 - INFO - Memulai konversi: vertical vhs video player 12.mov
+2025-10-22 11:45:06,709 - INFO - Konversi berhasil: vertical vhs video player 12.mov -> vertical vhs video player 12.mp4
+2025-10-22 11:45:06,709 - INFO - Progress: 9/14
+2025-10-22 11:45:06,710 - INFO - Memulai konversi: vertical vhs video player 14.mov
+2025-10-22 11:45:07,155 - INFO - Konversi berhasil: vertical vhs video player 14.mov -> vertical vhs video player 14.mp4
+2025-10-22 11:45:07,155 - INFO - Progress: 10/14
+2025-10-22 11:45:07,155 - INFO - Memulai konversi: vertical vhs video player 18.mov
+2025-10-22 11:45:07,588 - INFO - Konversi berhasil: vertical vhs video player 18.mov -> vertical vhs video player 18.mp4
+2025-10-22 11:45:07,588 - INFO - Progress: 11/14
+2025-10-22 11:45:07,588 - INFO - Memulai konversi: vhs video player 10.mov
+2025-10-22 11:45:08,119 - INFO - Konversi berhasil: vhs video player 10.mov -> vhs video player 10.mp4
+2025-10-22 11:45:08,119 - INFO - Progress: 12/14
+2025-10-22 11:45:08,119 - INFO - Memulai konversi: vhs video player 6.mov
+2025-10-22 11:45:08,646 - INFO - Konversi berhasil: vhs video player 6.mov -> vhs video player 6.mp4
+2025-10-22 11:45:08,647 - INFO - Progress: 13/14
+2025-10-22 11:45:08,647 - INFO - Memulai konversi: vhs video player 7.mov
+2025-10-22 11:45:09,091 - INFO - Konversi berhasil: vhs video player 7.mov -> vhs video player 7.mp4
+2025-10-22 11:45:09,091 - INFO - Progress: 14/14
+2025-10-22 11:45:09,092 - INFO - Memulai konversi: vhs video player 9.mov
+2025-10-22 11:45:09,619 - INFO - Konversi berhasil: vhs video player 9.mov -> vhs video player 9.mp4
+2025-10-22 11:45:09,620 - INFO - Konversi selesai! 14/14 file berhasil dikonversi
+2025-10-22 11:45:09,620 - INFO - Semua file berhasil dikonversi!
