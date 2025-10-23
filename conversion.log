@@ -148,3 +148,252 @@
 2025-10-22 11:45:09,619 - INFO - Konversi berhasil: vhs video player 9.mov -> vhs video player 9.mp4
 2025-10-22 11:45:09,620 - INFO - Konversi selesai! 14/14 file berhasil dikonversi
 2025-10-22 11:45:09,620 - INFO - Semua file berhasil dikonversi!
+2025-10-23 05:01:17,849 - INFO - FFmpeg ditemukan di sistem
+2025-10-23 05:01:17,854 - INFO - Ditemukan 49 file MOV di folder: C:\Users\Dell\Downloads\Monday xys
+2025-10-23 05:01:17,856 - INFO - Folder output: C:\Users\Dell\Downloads\Monday xys\converted_mp4
+2025-10-23 05:01:17,856 - INFO - Memulai konversi 49 file...
+2025-10-23 05:01:17,857 - INFO - Progress: 1/49
+2025-10-23 05:01:17,857 - INFO - Memulai konversi: rotate leak 10_Part01.mov
+2025-10-23 05:01:18,464 - INFO - Konversi berhasil: rotate leak 10_Part01.mov -> rotate leak 10_Part01.mp4
+2025-10-23 05:01:18,464 - INFO - Progress: 2/49
+2025-10-23 05:01:18,464 - INFO - Memulai konversi: rotate leak 10_Part02.mov
+2025-10-23 05:01:18,916 - INFO - Konversi berhasil: rotate leak 10_Part02.mov -> rotate leak 10_Part02.mp4
+2025-10-23 05:01:18,917 - INFO - Progress: 3/49
+2025-10-23 05:01:18,917 - INFO - Memulai konversi: rotate leak 10_Part03.mov
+2025-10-23 05:01:19,301 - INFO - Konversi berhasil: rotate leak 10_Part03.mov -> rotate leak 10_Part03.mp4
+2025-10-23 05:01:19,302 - INFO - Progress: 4/49
+2025-10-23 05:01:19,302 - INFO - Memulai konversi: rotate leak 10_Part04.mov
+2025-10-23 05:01:19,689 - INFO - Konversi berhasil: rotate leak 10_Part04.mov -> rotate leak 10_Part04.mp4
+2025-10-23 05:01:19,689 - INFO - Progress: 5/49
+2025-10-23 05:01:19,690 - INFO - Memulai konversi: rotate leak 10_Part05.mov
+2025-10-23 05:01:20,100 - INFO - Konversi berhasil: rotate leak 10_Part05.mov -> rotate leak 10_Part05.mp4
+2025-10-23 05:01:20,100 - INFO - Progress: 6/49
+2025-10-23 05:01:20,100 - INFO - Memulai konversi: rotate leak 11_Part01.mov
+2025-10-23 05:01:20,574 - INFO - Konversi berhasil: rotate leak 11_Part01.mov -> rotate leak 11_Part01.mp4
+2025-10-23 05:01:20,574 - INFO - Progress: 7/49
+2025-10-23 05:01:20,574 - INFO - Memulai konversi: rotate leak 11_Part02.mov
+2025-10-23 05:01:20,979 - INFO - Konversi berhasil: rotate leak 11_Part02.mov -> rotate leak 11_Part02.mp4
+2025-10-23 05:01:20,979 - INFO - Progress: 8/49
+2025-10-23 05:01:20,980 - INFO - Memulai konversi: rotate leak 11_Part03.mov
+2025-10-23 05:01:21,353 - INFO - Konversi berhasil: rotate leak 11_Part03.mov -> rotate leak 11_Part03.mp4
+2025-10-23 05:01:21,354 - INFO - Progress: 9/49
+2025-10-23 05:01:21,354 - INFO - Memulai konversi: rotate leak 11_Part04.mov
+2025-10-23 05:01:21,748 - INFO - Konversi berhasil: rotate leak 11_Part04.mov -> rotate leak 11_Part04.mp4
+2025-10-23 05:01:21,749 - INFO - Progress: 10/49
+2025-10-23 05:01:21,749 - INFO - Memulai konversi: rotate leak 11_Part05.mov
+2025-10-23 05:01:22,210 - INFO - Konversi berhasil: rotate leak 11_Part05.mov -> rotate leak 11_Part05.mp4
+2025-10-23 05:01:22,210 - INFO - Progress: 11/49
+2025-10-23 05:01:22,210 - INFO - Memulai konversi: rotate leak 12_Part01.mov
+2025-10-23 05:01:22,653 - INFO - Konversi berhasil: rotate leak 12_Part01.mov -> rotate leak 12_Part01.mp4
+2025-10-23 05:01:22,653 - INFO - Progress: 12/49
+2025-10-23 05:01:22,653 - INFO - Memulai konversi: rotate leak 12_Part02.mov
+2025-10-23 05:01:23,066 - INFO - Konversi berhasil: rotate leak 12_Part02.mov -> rotate leak 12_Part02.mp4
+2025-10-23 05:01:23,066 - INFO - Progress: 13/49
+2025-10-23 05:01:23,066 - INFO - Memulai konversi: rotate leak 12_Part03.mov
+2025-10-23 05:01:23,453 - INFO - Konversi berhasil: rotate leak 12_Part03.mov -> rotate leak 12_Part03.mp4
+2025-10-23 05:01:23,454 - INFO - Progress: 14/49
+2025-10-23 05:01:23,454 - INFO - Memulai konversi: rotate leak 12_Part04.mov
+2025-10-23 05:01:23,880 - INFO - Konversi berhasil: rotate leak 12_Part04.mov -> rotate leak 12_Part04.mp4
+2025-10-23 05:01:23,880 - INFO - Progress: 15/49
+2025-10-23 05:01:23,881 - INFO - Memulai konversi: rotate leak 12_Part05.mov
+2025-10-23 05:01:24,260 - INFO - Konversi berhasil: rotate leak 12_Part05.mov -> rotate leak 12_Part05.mp4
+2025-10-23 05:01:24,261 - INFO - Progress: 16/49
+2025-10-23 05:01:24,261 - INFO - Memulai konversi: rotate leak 13_Part01.mov
+2025-10-23 05:01:24,674 - INFO - Konversi berhasil: rotate leak 13_Part01.mov -> rotate leak 13_Part01.mp4
+2025-10-23 05:01:24,674 - INFO - Progress: 17/49
+2025-10-23 05:01:24,674 - INFO - Memulai konversi: rotate leak 13_Part02.mov
+2025-10-23 05:01:25,117 - INFO - Konversi berhasil: rotate leak 13_Part02.mov -> rotate leak 13_Part02.mp4
+2025-10-23 05:01:25,117 - INFO - Progress: 18/49
+2025-10-23 05:01:25,117 - INFO - Memulai konversi: rotate leak 13_Part03.mov
+2025-10-23 05:01:25,579 - INFO - Konversi berhasil: rotate leak 13_Part03.mov -> rotate leak 13_Part03.mp4
+2025-10-23 05:01:25,580 - INFO - Progress: 19/49
+2025-10-23 05:01:25,580 - INFO - Memulai konversi: rotate leak 13_Part04.mov
+2025-10-23 05:01:26,061 - INFO - Konversi berhasil: rotate leak 13_Part04.mov -> rotate leak 13_Part04.mp4
+2025-10-23 05:01:26,061 - INFO - Progress: 20/49
+2025-10-23 05:01:26,062 - INFO - Memulai konversi: rotate leak 13_Part05.mov
+2025-10-23 05:01:26,479 - INFO - Konversi berhasil: rotate leak 13_Part05.mov -> rotate leak 13_Part05.mp4
+2025-10-23 05:01:26,480 - INFO - Progress: 21/49
+2025-10-23 05:01:26,480 - INFO - Memulai konversi: rotate leak 14_Part01.mov
+2025-10-23 05:01:26,949 - INFO - Konversi berhasil: rotate leak 14_Part01.mov -> rotate leak 14_Part01.mp4
+2025-10-23 05:01:26,949 - INFO - Progress: 22/49
+2025-10-23 05:01:26,949 - INFO - Memulai konversi: rotate leak 14_Part02.mov
+2025-10-23 05:01:27,405 - INFO - Konversi berhasil: rotate leak 14_Part02.mov -> rotate leak 14_Part02.mp4
+2025-10-23 05:01:27,406 - INFO - Progress: 23/49
+2025-10-23 05:01:27,406 - INFO - Memulai konversi: rotate leak 14_Part03.mov
+2025-10-23 05:01:27,796 - INFO - Konversi berhasil: rotate leak 14_Part03.mov -> rotate leak 14_Part03.mp4
+2025-10-23 05:01:27,797 - INFO - Progress: 24/49
+2025-10-23 05:01:27,797 - INFO - Memulai konversi: rotate leak 14_Part05.mov
+2025-10-23 05:01:28,265 - INFO - Konversi berhasil: rotate leak 14_Part05.mov -> rotate leak 14_Part05.mp4
+2025-10-23 05:01:28,266 - INFO - Progress: 25/49
+2025-10-23 05:01:28,266 - INFO - Memulai konversi: rotate leak 5_Part01.mov
+2025-10-23 05:01:28,694 - INFO - Konversi berhasil: rotate leak 5_Part01.mov -> rotate leak 5_Part01.mp4
+2025-10-23 05:01:28,694 - INFO - Progress: 26/49
+2025-10-23 05:01:28,694 - INFO - Memulai konversi: rotate leak 5_Part02.mov
+2025-10-23 05:01:29,134 - INFO - Konversi berhasil: rotate leak 5_Part02.mov -> rotate leak 5_Part02.mp4
+2025-10-23 05:01:29,135 - INFO - Progress: 27/49
+2025-10-23 05:01:29,135 - INFO - Memulai konversi: rotate leak 5_Part03.mov
+2025-10-23 05:01:29,582 - INFO - Konversi berhasil: rotate leak 5_Part03.mov -> rotate leak 5_Part03.mp4
+2025-10-23 05:01:29,582 - INFO - Progress: 28/49
+2025-10-23 05:01:29,582 - INFO - Memulai konversi: rotate leak 5_Part04.mov
+2025-10-23 05:01:29,976 - INFO - Konversi berhasil: rotate leak 5_Part04.mov -> rotate leak 5_Part04.mp4
+2025-10-23 05:01:29,976 - INFO - Progress: 29/49
+2025-10-23 05:01:29,976 - INFO - Memulai konversi: rotate leak 5_Part05.mov
+2025-10-23 05:01:30,382 - INFO - Konversi berhasil: rotate leak 5_Part05.mov -> rotate leak 5_Part05.mp4
+2025-10-23 05:01:30,383 - INFO - Progress: 30/49
+2025-10-23 05:01:30,383 - INFO - Memulai konversi: rotate leak 6_Part01.mov
+2025-10-23 05:01:30,825 - INFO - Konversi berhasil: rotate leak 6_Part01.mov -> rotate leak 6_Part01.mp4
+2025-10-23 05:01:30,825 - INFO - Progress: 31/49
+2025-10-23 05:01:30,825 - INFO - Memulai konversi: rotate leak 6_Part02.mov
+2025-10-23 05:01:31,279 - INFO - Konversi berhasil: rotate leak 6_Part02.mov -> rotate leak 6_Part02.mp4
+2025-10-23 05:01:31,279 - INFO - Progress: 32/49
+2025-10-23 05:01:31,279 - INFO - Memulai konversi: rotate leak 6_Part03.mov
+2025-10-23 05:01:31,698 - INFO - Konversi berhasil: rotate leak 6_Part03.mov -> rotate leak 6_Part03.mp4
+2025-10-23 05:01:31,698 - INFO - Progress: 33/49
+2025-10-23 05:01:31,698 - INFO - Memulai konversi: rotate leak 6_Part04.mov
+2025-10-23 05:01:32,058 - INFO - Konversi berhasil: rotate leak 6_Part04.mov -> rotate leak 6_Part04.mp4
+2025-10-23 05:01:32,058 - INFO - Progress: 34/49
+2025-10-23 05:01:32,059 - INFO - Memulai konversi: rotate leak 6_Part05.mov
+2025-10-23 05:01:32,435 - INFO - Konversi berhasil: rotate leak 6_Part05.mov -> rotate leak 6_Part05.mp4
+2025-10-23 05:01:32,435 - INFO - Progress: 35/49
+2025-10-23 05:01:32,435 - INFO - Memulai konversi: rotate leak 7_Part01.mov
+2025-10-23 05:01:32,900 - INFO - Konversi berhasil: rotate leak 7_Part01.mov -> rotate leak 7_Part01.mp4
+2025-10-23 05:01:32,900 - INFO - Progress: 36/49
+2025-10-23 05:01:32,900 - INFO - Memulai konversi: rotate leak 7_Part02.mov
+2025-10-23 05:01:33,546 - INFO - Konversi berhasil: rotate leak 7_Part02.mov -> rotate leak 7_Part02.mp4
+2025-10-23 05:01:33,547 - INFO - Progress: 37/49
+2025-10-23 05:01:33,547 - INFO - Memulai konversi: rotate leak 7_Part03.mov
+2025-10-23 05:01:34,016 - INFO - Konversi berhasil: rotate leak 7_Part03.mov -> rotate leak 7_Part03.mp4
+2025-10-23 05:01:34,016 - INFO - Progress: 38/49
+2025-10-23 05:01:34,016 - INFO - Memulai konversi: rotate leak 7_Part04.mov
+2025-10-23 05:01:34,456 - INFO - Konversi berhasil: rotate leak 7_Part04.mov -> rotate leak 7_Part04.mp4
+2025-10-23 05:01:34,456 - INFO - Progress: 39/49
+2025-10-23 05:01:34,457 - INFO - Memulai konversi: rotate leak 7_Part05.mov
+2025-10-23 05:01:34,864 - INFO - Konversi berhasil: rotate leak 7_Part05.mov -> rotate leak 7_Part05.mp4
+2025-10-23 05:01:34,865 - INFO - Progress: 40/49
+2025-10-23 05:01:34,865 - INFO - Memulai konversi: rotate leak 8_Part01.mov
+2025-10-23 05:01:35,301 - INFO - Konversi berhasil: rotate leak 8_Part01.mov -> rotate leak 8_Part01.mp4
+2025-10-23 05:01:35,301 - INFO - Progress: 41/49
+2025-10-23 05:01:35,302 - INFO - Memulai konversi: rotate leak 8_Part02.mov
+2025-10-23 05:01:35,820 - INFO - Konversi berhasil: rotate leak 8_Part02.mov -> rotate leak 8_Part02.mp4
+2025-10-23 05:01:35,821 - INFO - Progress: 42/49
+2025-10-23 05:01:35,821 - INFO - Memulai konversi: rotate leak 8_Part03.mov
+2025-10-23 05:01:36,240 - INFO - Konversi berhasil: rotate leak 8_Part03.mov -> rotate leak 8_Part03.mp4
+2025-10-23 05:01:36,241 - INFO - Progress: 43/49
+2025-10-23 05:01:36,241 - INFO - Memulai konversi: rotate leak 8_Part04.mov
+2025-10-23 05:01:36,662 - INFO - Konversi berhasil: rotate leak 8_Part04.mov -> rotate leak 8_Part04.mp4
+2025-10-23 05:01:36,662 - INFO - Progress: 44/49
+2025-10-23 05:01:36,663 - INFO - Memulai konversi: rotate leak 8_Part05.mov
+2025-10-23 05:01:37,060 - INFO - Konversi berhasil: rotate leak 8_Part05.mov -> rotate leak 8_Part05.mp4
+2025-10-23 05:01:37,060 - INFO - Progress: 45/49
+2025-10-23 05:01:37,060 - INFO - Memulai konversi: rotate leak 9_Part01.mov
+2025-10-23 05:01:37,624 - INFO - Konversi berhasil: rotate leak 9_Part01.mov -> rotate leak 9_Part01.mp4
+2025-10-23 05:01:37,624 - INFO - Progress: 46/49
+2025-10-23 05:01:37,624 - INFO - Memulai konversi: rotate leak 9_Part02.mov
+2025-10-23 05:01:38,105 - INFO - Konversi berhasil: rotate leak 9_Part02.mov -> rotate leak 9_Part02.mp4
+2025-10-23 05:01:38,106 - INFO - Progress: 47/49
+2025-10-23 05:01:38,106 - INFO - Memulai konversi: rotate leak 9_Part03.mov
+2025-10-23 05:01:38,473 - INFO - Konversi berhasil: rotate leak 9_Part03.mov -> rotate leak 9_Part03.mp4
+2025-10-23 05:01:38,474 - INFO - Progress: 48/49
+2025-10-23 05:01:38,474 - INFO - Memulai konversi: rotate leak 9_Part04.mov
+2025-10-23 05:01:38,853 - INFO - Konversi berhasil: rotate leak 9_Part04.mov -> rotate leak 9_Part04.mp4
+2025-10-23 05:01:38,853 - INFO - Progress: 49/49
+2025-10-23 05:01:38,853 - INFO - Memulai konversi: rotate leak 9_Part05.mov
+2025-10-23 05:01:39,250 - INFO - Konversi berhasil: rotate leak 9_Part05.mov -> rotate leak 9_Part05.mp4
+2025-10-23 05:01:39,250 - INFO - Konversi selesai! 49/49 file berhasil dikonversi
+2025-10-23 05:01:39,252 - INFO - Semua file berhasil dikonversi!
+2025-10-23 14:06:28,080 - INFO - FFmpeg ditemukan di sistem
+2025-10-23 14:06:28,085 - INFO - Ditemukan 30 file MOV di folder: C:\Users\Dell\Downloads\adi adi
+2025-10-23 14:06:28,086 - INFO - Folder output: C:\Users\Dell\Downloads\adi adi\converted_mp4
+2025-10-23 14:06:28,087 - INFO - Memulai konversi 30 file...
+2025-10-23 14:06:28,087 - INFO - Progress: 1/30
+2025-10-23 14:06:28,088 - INFO - Memulai konversi: Old film tape defects 10.mov
+2025-10-23 14:06:29,760 - INFO - Konversi berhasil: Old film tape defects 10.mov -> Old film tape defects 10.mp4
+2025-10-23 14:06:29,761 - INFO - Progress: 2/30
+2025-10-23 14:06:29,761 - INFO - Memulai konversi: Old film tape defects 11.mov
+2025-10-23 14:06:31,078 - INFO - Konversi berhasil: Old film tape defects 11.mov -> Old film tape defects 11.mp4
+2025-10-23 14:06:31,079 - INFO - Progress: 3/30
+2025-10-23 14:06:31,079 - INFO - Memulai konversi: Old film tape defects 14.mov
+2025-10-23 14:06:32,296 - INFO - Konversi berhasil: Old film tape defects 14.mov -> Old film tape defects 14.mp4
+2025-10-23 14:06:32,298 - INFO - Progress: 4/30
+2025-10-23 14:06:32,298 - INFO - Memulai konversi: Old film tape defects 16.mov
+2025-10-23 14:06:33,955 - INFO - Konversi berhasil: Old film tape defects 16.mov -> Old film tape defects 16.mp4
+2025-10-23 14:06:33,956 - INFO - Progress: 5/30
+2025-10-23 14:06:33,956 - INFO - Memulai konversi: Old film tape defects 17.mov
+2025-10-23 14:06:35,291 - INFO - Konversi berhasil: Old film tape defects 17.mov -> Old film tape defects 17.mp4
+2025-10-23 14:06:35,291 - INFO - Progress: 6/30
+2025-10-23 14:06:35,291 - INFO - Memulai konversi: Old film tape defects 18.mov
+2025-10-23 14:06:37,063 - INFO - Konversi berhasil: Old film tape defects 18.mov -> Old film tape defects 18.mp4
+2025-10-23 14:06:37,063 - INFO - Progress: 7/30
+2025-10-23 14:06:37,064 - INFO - Memulai konversi: Old film tape defects 19.mov
+2025-10-23 14:06:38,330 - INFO - Konversi berhasil: Old film tape defects 19.mov -> Old film tape defects 19.mp4
+2025-10-23 14:06:38,331 - INFO - Progress: 8/30
+2025-10-23 14:06:38,331 - INFO - Memulai konversi: Old film tape defects 2.mov
+2025-10-23 14:06:39,391 - INFO - Konversi berhasil: Old film tape defects 2.mov -> Old film tape defects 2.mp4
+2025-10-23 14:06:39,391 - INFO - Progress: 9/30
+2025-10-23 14:06:39,391 - INFO - Memulai konversi: Old film tape defects 20.mov
+2025-10-23 14:06:40,920 - INFO - Konversi berhasil: Old film tape defects 20.mov -> Old film tape defects 20.mp4
+2025-10-23 14:06:40,920 - INFO - Progress: 10/30
+2025-10-23 14:06:40,921 - INFO - Memulai konversi: Old film tape defects 21.mov
+2025-10-23 14:06:42,307 - INFO - Konversi berhasil: Old film tape defects 21.mov -> Old film tape defects 21.mp4
+2025-10-23 14:06:42,307 - INFO - Progress: 11/30
+2025-10-23 14:06:42,308 - INFO - Memulai konversi: Old film tape defects 22.mov
+2025-10-23 14:06:43,549 - INFO - Konversi berhasil: Old film tape defects 22.mov -> Old film tape defects 22.mp4
+2025-10-23 14:06:43,550 - INFO - Progress: 12/30
+2025-10-23 14:06:43,550 - INFO - Memulai konversi: Old film tape defects 23.mov
+2025-10-23 14:06:44,930 - INFO - Konversi berhasil: Old film tape defects 23.mov -> Old film tape defects 23.mp4
+2025-10-23 14:06:44,931 - INFO - Progress: 13/30
+2025-10-23 14:06:44,931 - INFO - Memulai konversi: Old film tape defects 24.mov
+2025-10-23 14:06:46,250 - INFO - Konversi berhasil: Old film tape defects 24.mov -> Old film tape defects 24.mp4
+2025-10-23 14:06:46,251 - INFO - Progress: 14/30
+2025-10-23 14:06:46,251 - INFO - Memulai konversi: Old film tape defects 25.mov
+2025-10-23 14:06:47,554 - INFO - Konversi berhasil: Old film tape defects 25.mov -> Old film tape defects 25.mp4
+2025-10-23 14:06:47,555 - INFO - Progress: 15/30
+2025-10-23 14:06:47,555 - INFO - Memulai konversi: Old film tape defects 26.mov
+2025-10-23 14:06:49,471 - INFO - Konversi berhasil: Old film tape defects 26.mov -> Old film tape defects 26.mp4
+2025-10-23 14:06:49,473 - INFO - Progress: 16/30
+2025-10-23 14:06:49,474 - INFO - Memulai konversi: Old film tape defects 28.mov
+2025-10-23 14:06:51,242 - INFO - Konversi berhasil: Old film tape defects 28.mov -> Old film tape defects 28.mp4
+2025-10-23 14:06:51,243 - INFO - Progress: 17/30
+2025-10-23 14:06:51,243 - INFO - Memulai konversi: Old film tape defects 29.mov
+2025-10-23 14:06:52,759 - INFO - Konversi berhasil: Old film tape defects 29.mov -> Old film tape defects 29.mp4
+2025-10-23 14:06:52,759 - INFO - Progress: 18/30
+2025-10-23 14:06:52,760 - INFO - Memulai konversi: Old film tape defects 3.mov
+2025-10-23 14:06:54,059 - INFO - Konversi berhasil: Old film tape defects 3.mov -> Old film tape defects 3.mp4
+2025-10-23 14:06:54,059 - INFO - Progress: 19/30
+2025-10-23 14:06:54,059 - INFO - Memulai konversi: Old film tape defects 31.mov
+2025-10-23 14:06:55,433 - INFO - Konversi berhasil: Old film tape defects 31.mov -> Old film tape defects 31.mp4
+2025-10-23 14:06:55,433 - INFO - Progress: 20/30
+2025-10-23 14:06:55,434 - INFO - Memulai konversi: Old film tape defects 32.mov
+2025-10-23 14:06:56,822 - INFO - Konversi berhasil: Old film tape defects 32.mov -> Old film tape defects 32.mp4
+2025-10-23 14:06:56,823 - INFO - Progress: 21/30
+2025-10-23 14:06:56,823 - INFO - Memulai konversi: Old film tape defects 33.mov
+2025-10-23 14:06:58,111 - INFO - Konversi berhasil: Old film tape defects 33.mov -> Old film tape defects 33.mp4
+2025-10-23 14:06:58,112 - INFO - Progress: 22/30
+2025-10-23 14:06:58,112 - INFO - Memulai konversi: Old film tape defects 34.mov
+2025-10-23 14:06:59,465 - INFO - Konversi berhasil: Old film tape defects 34.mov -> Old film tape defects 34.mp4
+2025-10-23 14:06:59,465 - INFO - Progress: 23/30
+2025-10-23 14:06:59,466 - INFO - Memulai konversi: Old film tape defects 35.mov
+2025-10-23 14:07:01,244 - INFO - Konversi berhasil: Old film tape defects 35.mov -> Old film tape defects 35.mp4
+2025-10-23 14:07:01,245 - INFO - Progress: 24/30
+2025-10-23 14:07:01,245 - INFO - Memulai konversi: Old film tape defects 37.mov
+2025-10-23 14:07:03,068 - INFO - Konversi berhasil: Old film tape defects 37.mov -> Old film tape defects 37.mp4
+2025-10-23 14:07:03,068 - INFO - Progress: 25/30
+2025-10-23 14:07:03,069 - INFO - Memulai konversi: Old film tape defects 38.mov
+2025-10-23 14:07:04,575 - INFO - Konversi berhasil: Old film tape defects 38.mov -> Old film tape defects 38.mp4
+2025-10-23 14:07:04,575 - INFO - Progress: 26/30
+2025-10-23 14:07:04,575 - INFO - Memulai konversi: Old film tape defects 39.mov
+2025-10-23 14:07:06,227 - INFO - Konversi berhasil: Old film tape defects 39.mov -> Old film tape defects 39.mp4
+2025-10-23 14:07:06,227 - INFO - Progress: 27/30
+2025-10-23 14:07:06,228 - INFO - Memulai konversi: Old film tape defects 4.mov
+2025-10-23 14:07:07,400 - INFO - Konversi berhasil: Old film tape defects 4.mov -> Old film tape defects 4.mp4
+2025-10-23 14:07:07,400 - INFO - Progress: 28/30
+2025-10-23 14:07:07,401 - INFO - Memulai konversi: Old film tape defects 5.mov
+2025-10-23 14:07:08,570 - INFO - Konversi berhasil: Old film tape defects 5.mov -> Old film tape defects 5.mp4
+2025-10-23 14:07:08,570 - INFO - Progress: 29/30
+2025-10-23 14:07:08,571 - INFO - Memulai konversi: Old film tape defects 6.mov
+2025-10-23 14:07:10,248 - INFO - Konversi berhasil: Old film tape defects 6.mov -> Old film tape defects 6.mp4
+2025-10-23 14:07:10,248 - INFO - Progress: 30/30
+2025-10-23 14:07:10,249 - INFO - Memulai konversi: Old film tape defects.mov
+2025-10-23 14:07:11,736 - INFO - Konversi berhasil: Old film tape defects.mov -> Old film tape defects.mp4
+2025-10-23 14:07:11,737 - INFO - Konversi selesai! 30/30 file berhasil dikonversi
+2025-10-23 14:07:11,738 - INFO - Semua file berhasil dikonversi!

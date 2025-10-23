@@ -129,47 +129,114 @@ class MOVToMP4Converter:
         logger.info(f"Konversi selesai! {success_count}/{total_files} file berhasil dikonversi")
         return success_count == total_files
 
+def get_user_input():
+    """Dapatkan input dari user secara interaktif"""
+    print("=" * 60)
+    print("MOV to MP4 Converter - Interactive Mode")
+    print("=" * 60)
+    
+    # Minta path folder
+    while True:
+        folder_path = input("\nMasukkan path folder yang berisi file MOV: ").strip()
+        
+        # Hapus tanda kutip jika ada
+        if folder_path.startswith('"') and folder_path.endswith('"'):
+            folder_path = folder_path[1:-1]
+        elif folder_path.startswith("'") and folder_path.endswith("'"):
+            folder_path = folder_path[1:-1]
+        
+        if not folder_path:
+            print("❌ Path tidak boleh kosong!")
+            continue
+            
+        if not os.path.exists(folder_path):
+            print(f"❌ Folder tidak ditemukan: {folder_path}")
+            print("💡 Pastikan path sudah benar dan folder ada.")
+            continue
+            
+        if not os.path.isdir(folder_path):
+            print(f"❌ Path bukan folder: {folder_path}")
+            continue
+            
+        break
+    
+    # Minta konfirmasi untuk subfolder
+    print(f"\n📁 Folder yang dipilih: {folder_path}")
+    while True:
+        subfolder_choice = input("\nApakah ingin membuat subfolder 'converted_mp4'? (y/n): ").strip().lower()
+        if subfolder_choice in ['y', 'yes', 'ya']:
+            create_subfolder = True
+            break
+        elif subfolder_choice in ['n', 'no', 'tidak']:
+            create_subfolder = False
+            break
+        else:
+            print("❌ Masukkan 'y' untuk ya atau 'n' untuk tidak")
+    
+    return folder_path, create_subfolder
+
 def main():
-    parser = argparse.ArgumentParser(
-        description="Konversi file MOV ke MP4 secara batch",
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
+    """Main function dengan mode interaktif"""
+    try:
+        # Cek apakah ada argumen command line
+        if len(sys.argv) > 1:
+            # Mode command line (backward compatibility)
+            parser = argparse.ArgumentParser(
+                description="Konversi file MOV ke MP4 secara batch",
+                formatter_class=argparse.RawDescriptionHelpFormatter,
+                epilog="""
 Contoh penggunaan:
   python mov_to_mp4_converter.py "C:\\Users\\User\\Videos"
   python mov_to_mp4_converter.py "D:\\Movies" --no-subfolder
-        """
-    )
-    
-    parser.add_argument(
-        'folder_path',
-        help='Path ke folder yang berisi file MOV'
-    )
-    
-    parser.add_argument(
-        '--no-subfolder',
-        action='store_true',
-        help='Simpan file hasil konversi di folder yang sama (default: buat subfolder)'
-    )
-    
-    args = parser.parse_args()
-    
-    # Validasi input
-    if not os.path.exists(args.folder_path):
-        logger.error(f"Folder tidak ditemukan: {args.folder_path}")
+                """
+            )
+            
+            parser.add_argument(
+                'folder_path',
+                help='Path ke folder yang berisi file MOV'
+            )
+            
+            parser.add_argument(
+                '--no-subfolder',
+                action='store_true',
+                help='Simpan file hasil konversi di folder yang sama (default: buat subfolder)'
+            )
+            
+            args = parser.parse_args()
+            
+            # Validasi input
+            if not os.path.exists(args.folder_path):
+                logger.error(f"Folder tidak ditemukan: {args.folder_path}")
+                sys.exit(1)
+            
+            folder_path = args.folder_path
+            create_subfolder = not args.no_subfolder
+            
+        else:
+            # Mode interaktif
+            folder_path, create_subfolder = get_user_input()
+        
+        # Jalankan konversi
+        print(f"\n🚀 Memulai konversi...")
+        converter = MOVToMP4Converter()
+        success = converter.convert_folder(folder_path, create_subfolder)
+        
+        if success:
+            print("\n✅ Semua file berhasil dikonversi!")
+            logger.info("Semua file berhasil dikonversi!")
+            sys.exit(0)
+        else:
+            print("\n❌ Beberapa file gagal dikonversi. Cek log untuk detail.")
+            logger.error("Beberapa file gagal dikonversi. Cek log untuk detail.")
+            sys.exit(1)
+            
+    except KeyboardInterrupt:
+        print("\n\n⏹️  Konversi dibatalkan oleh user.")
+        logger.info("Konversi dibatalkan oleh user.")
         sys.exit(1)
-    
-    # Jalankan konversi
-    converter = MOVToMP4Converter()
-    success = converter.convert_folder(
-        args.folder_path, 
-        create_subfolder=not args.no_subfolder
-    )
-    
-    if success:
-        logger.info("Semua file berhasil dikonversi!")
-        sys.exit(0)
-    else:
-        logger.error("Beberapa file gagal dikonversi. Cek log untuk detail.")
+    except Exception as e:
+        print(f"\n❌ Error tidak terduga: {str(e)}")
+        logger.error(f"Error tidak terduga: {str(e)}")
         sys.exit(1)
 
 if __name__ == "__main__":
